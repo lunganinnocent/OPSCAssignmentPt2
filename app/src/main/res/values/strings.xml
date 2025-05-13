@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">OPSCAssignment</string>
+    <string name="smartspend3">smartspend3</string>
+    <string name="loading">loading</string>
+    <string name="smartspend1">smartspend</string>
+    <string name="username">username</string>
+    <string name="password1">password</string>
+    <string name="login">login</string>
+    <string name="smartspend">smartspend</string>
+    <string name="full_name">full_name</string>
+    <string name="enter_your_full_name">enter_your_full_name</string>
+    <string name="password">password</string>
+    <string name="enter_your_password">enter_your_password</string>
+    <string name="confirm_password">confirm_password</string>
+    <string name="re_enter_password">re_enter_password</string>
+    <string name="register">register</string>
+    <string name="groceries">Groceries</string>
+    <string name="r_200">R 200</string>
+    <string name="_10_april_2025">10 April 2025</string>
+    <string name="transport">Transport</string>
+    <string name="r_80_50">R 80.50</string>
+    <string name="_09_april_2025">09 April 2025</string>
+    <string name="electricity">Electricity</string>
+    <string name="r_150_75">R 150.75</string>
+    <string name="_08_april_2025">08 April 2025</string>
+    <string name="entertaiment">Entertaiment</string>
+    <string name="r_300_00">R 300.00</string>
+    <string name="_14_april_2025">14 April 2025</string>
+    <string name="traveling">Traveling</string>
+    <string name="r_760_99">R 760.99</string>
+    <string name="_26_april_2025">26 April 2025</string>
+    <string name="insurance">Insurance</string>
+    <string name="r110">R110</string>
+    <string name="_12_april_2025">12 April 2025</string>
+    <string name="clothing">Clothing</string>
+    <string name="r2000">R2000</string>
+    <string name="_25_april_2025">25 April 2025</string>
+    <string name="medical">Medical</string>
+    <string name="r300">r300</string>
+    <string name="_30_april_2025">30 april 2025</string>
+    <string name="smartspend2">SmartSpend</string>
+
+</resources>
