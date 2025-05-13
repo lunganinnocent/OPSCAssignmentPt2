@@ -20,3 +20,6 @@ order
 6.Expenses
 
 https://github.com/lunganinnocent/OPSCAssignmentPt2.git
+
+Members: Snegugu Sikiti
+Lungani Msomi
